@@ -7,4 +7,5 @@ In this the programmer has to pass 2 value array.<br>
 <br>
 <br>
 # Screenshots.
-![chart](https://cloud.githubusercontent.com/assets/1692653/9234713/125fc52a-4158-11e5-93c1-faad06300065.png)<br>
+<br>
+![chart](https://cloud.githubusercontent.com/assets/1692653/9234939/7f401e46-4159-11e5-9529-f0db270ac395.png)
